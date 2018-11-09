@@ -56,7 +56,7 @@
         android:layout_marginBottom="30dp"
         android:layout_marginLeft="37dp"
         android:layout_marginStart="37dp"
-        android:text="スタート"
+        android:text="@string/strStartEng"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
@@ -87,8 +87,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
-        android:layout_marginLeft="65dp"
-        android:layout_marginStart="65dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginStart="70dp"
         android:layout_marginTop="8dp"
         android:text="0"
         app:layout_constraintBottom_toTopOf="@+id/textView3"
